@@ -1,0 +1,1 @@
+import{d as n,v as a,V as o}from"./framework.CXkkaYWf.js";const d=n({__name:"Confetti",setup(_){return a(async()=>{if(typeof window<"u"){const t=(await o(async()=>{const{default:e}=await import("./confetti.module.qKGLQ8t9.js");return{default:e}},[])).default;t({particleCount:100,spread:170,origin:{y:.6}})}}),()=>{}}});export{d as default};
