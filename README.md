@@ -1,2 +1,2 @@
-# Homalos 文档
+# Homalos Docs
 Docs for [Homalos](https://github.com/Homalos/Homalos).
